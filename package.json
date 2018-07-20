@@ -72,7 +72,7 @@
     "numeral": "2.0.6",
     "plywood": "0.17.26",
     "plywood-base-api": "0.2.8",
-    "plywood-druid-requester": "2.4.2",
+    "plywood-druid-requester": "2.5.0",
     "plywood-mysql-requester": "2.1.0",
     "plywood-postgres-requester": "1.2.0",
     "q": "1.5.1",
@@ -80,7 +80,7 @@
     "react": "16.2.0",
     "react-addons-css-transition-group": "15.6.2",
     "react-dom": "16.2.0",
-    "request": "2.83.0"
+    "request": "2.84.0"
   },
   "devDependencies": {
     "@types/body-parser": "1.16.8",
