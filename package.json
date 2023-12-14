@@ -72,7 +72,7 @@
     "numeral": "2.0.6",
     "plywood": "0.17.26",
     "plywood-base-api": "0.2.8",
-    "plywood-druid-requester": "2.4.2",
+    "plywood-druid-requester": "3.0.0",
     "plywood-mysql-requester": "2.1.0",
     "plywood-postgres-requester": "1.2.0",
     "q": "1.5.1",
