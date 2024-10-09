@@ -57,7 +57,7 @@
     "compression": "1.7.1",
     "d3": "3.5.17",
     "debug": "3.1.0",
-    "express": "4.16.2",
+    "express": "4.21.1",
     "fs-promise": "2.0.3",
     "hsts": "2.1.0",
     "immutable": "3.8.2",
